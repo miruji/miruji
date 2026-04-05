@@ -1,1 +1,6 @@
 👋 Hi, I’m @miruji
+
+At the moment I am working on the following projects in my free time:
+- [CaveVox](https://store.steampowered.com/app/3013050/CaveVox/) - The only game in the world that is a 3D voxel roguelike with an open world. Something like SAO and DanMachi that fans dream about, but no one can fully have it. In general, any fan of medieval fantasy anime should play it. I am fully developing this game from scratch: my own engine in Rust, working together with Godot as an editor and rendering platform.
+- [Kingso](https://store.steampowered.com/app/1385180/Kingso/) - A unique game in terms of graphics and overall style; among turn-based strategies, it’s the only one like this. This is a 2D fantasy medieval isekai with deep AI mechanics and world development. I am also developing it from scratch.
+- [RTS](https://github.com/rts-lang/rts) - Real-Time Programming Language with Free Data Structures. Something like Python at first glance, but written in Rust. RTS departs from the branch of programming language development that has continued from 1960 to the present, following the FDS paradigm. Everything in the project is written from scratch: documentation, a package manager, custom mathematics, ternary logic planned, and much more. It’s also the first language in the world without the concept of errors. An excellent tool for creating singularity.
